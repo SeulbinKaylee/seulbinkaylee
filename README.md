@@ -5,7 +5,7 @@ Hi there 👋 My name is Seulbin.
 
 I've been doing programming since March, 2021.
 
-# <p align="center">
+<p align="center">
 Technology💥
 </p>
 
