@@ -19,6 +19,6 @@ I've been doing programming since March, 2021.
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </div>
 
-github-readme-stats.vercel.app/api/top-langs/?username=SeulbinKaylee&langs_count=8
+<!-- github-readme-stats.vercel.app/api/top-langs/?username=SeulbinKaylee&langs_count=8 -->
 
 
