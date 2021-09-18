@@ -6,7 +6,7 @@ Hi there 👋 My name is Seulbin.
 I've been doing programming since March, 2021.
 
 -------------------------------------------------------
-# Technology💥
+#### Technology💥
 
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -17,21 +17,8 @@ I've been doing programming since March, 2021.
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  </div>
-<!--
-**SeulbinKaylee/SeulbinKaylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+[![kaylee_langs](github-readme-stats.vercel.app/api/top-langs/?username={SeulbinKaylee}&langs_count=8)]
 
 
