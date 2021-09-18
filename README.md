@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-U+2764
+:U+2764
 
