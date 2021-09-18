@@ -5,10 +5,8 @@ Hi there 👋 My name is Seulbin.
 
 I've been doing programming since March, 2021.
 
-
-
-
-## Technology💥
+-------------------------------------------------------
+# Technology💥
 
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
