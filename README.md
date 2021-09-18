@@ -7,7 +7,7 @@ I've been doing programming since March, 2021.
 
 
 
-<div align=center>
+<div align="center">
   __💥Technology💥__
   
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
