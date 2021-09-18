@@ -5,11 +5,11 @@ Hi there 👋 My name is Seulbin.
 
 I've been doing programming since March, 2021.
 
-
+<p align="center">
+__💥Technology💥__
+</p>
 
 <div align="center">
-  __💥Technology💥__
-  
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javacript-F7DF1E?style=for-the-badge&logo=javacript&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
