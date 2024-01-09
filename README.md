@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeulbinKaylee&count_bg=%23FFC3F4&title_bg=%23ADADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Hi there 👋 My name is Seulbin. 
 (I'm Korean, So I have a English name. My Eng name is Kaylee. You can call both.) 
 
